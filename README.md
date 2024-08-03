@@ -1,2 +1,2 @@
 # Sales-Correlation
-This is a project done during an internship that generates human readable insights using a collection of quarterly sales data.
+Natural Language Generation project that took in data analysis from quarterly sales and generated human-readable insights based on trends from the data. 
